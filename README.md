@@ -1,14 +1,7 @@
 # Geekr! D
 **Geekr! D** 是一款简洁的 **Windows** 平台下的**开源工具软件**。<br>
-| **简体中文** | English |<br>
+| **简体中文** | English(Not yet online) |<br>
 喜欢，就点下Star吧(*/ω＼*)<br>
 <br>
-## 诚信原则<br>
-AURORA 团队向您问好。感谢您安装 Geekr! D<br>
-Geekr! D 是一款诚信软件，这表示我们相信彼此的善意：<br>
-<br>
-您向 Geekr! D 支付可以承担的价格。您可以选择价格。<br>
-我们开发各种功能，尽力匹配您的需求。<br>
-如果不喜欢我们的产品，您可以获得退款 - 并且可以保留 Geekr! D。<br>
-<br>
-请尽您所能支付，因为您有 120 天的时间可以改变主意并获得退款！<br>
+这个项目刚刚发起，提交你的第一个Pull requests吧！<br>
+又或者……到Discussions畅所欲言？<br>
